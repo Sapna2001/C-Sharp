@@ -26,10 +26,10 @@ This program can work for 1 and 2 operands.
 - tan
 
 ## Operators List
-- +
-- -
-- *
-- /
+- (+)
+- (-)
+- (*)
+- (/)
 - max
 - min
 - sqrt
