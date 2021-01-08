@@ -11,3 +11,7 @@ C:\Users\Sapna\Desktop\C#\Control Statements\obj\Debug\netcoreapp3.1\Control Sta
 C:\Users\Sapna\Desktop\C#\Control Statements\obj\Debug\netcoreapp3.1\Control Statements.dll
 C:\Users\Sapna\Desktop\C#\Control Statements\obj\Debug\netcoreapp3.1\Control Statements.pdb
 C:\Users\Sapna\Desktop\C#\Control Statements\obj\Debug\netcoreapp3.1\Control Statements.genruntimeconfig.cache
+C:\Users\Sapna\Desktop\C#\Control Statements\bin\Debug\netcoreapp3.1\hello.exe
+C:\Users\Sapna\Desktop\C#\Control Statements\bin\Debug\netcoreapp3.1\hello.dll
+C:\Users\Sapna\Desktop\C#\Control Statements\bin\Debug\netcoreapp3.1\hello.pdb
+C:\Users\Sapna\Desktop\C#\Control Statements\obj\Debug\netcoreapp3.1\Control Statements.csproj.CopyComplete

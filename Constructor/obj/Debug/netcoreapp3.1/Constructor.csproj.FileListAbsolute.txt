@@ -1,0 +1,17 @@
+C:\Users\Sapna\Desktop\C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.csprojAssemblyReference.cache
+C:\Users\Sapna\Desktop\C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfoInputs.cache
+C:\Users\Sapna\Desktop\C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfo.cs
+C:\Users\Sapna\Desktop\C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Faculty.exe
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.exe
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.deps.json
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.json
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.dev.json
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Faculty.dll
+C:\Users\Sapna\Desktop\C#\Constructor\bin\Debug\netcoreapp3.1\Faculty.pdb
+C:\Users\Sapna\Desktop\C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CopyComplete
+C:\Users\Sapna\Desktop\C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
+C:\Users\Sapna\Desktop\C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
+C:\Users\Sapna\Desktop\C#\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache

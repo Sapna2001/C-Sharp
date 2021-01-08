@@ -10,3 +10,4 @@ C:\Users\Sapna\Desktop\C#\hello\obj\Debug\netcoreapp3.1\hello.csproj.CoreCompile
 C:\Users\Sapna\Desktop\C#\hello\obj\Debug\netcoreapp3.1\hello.dll
 C:\Users\Sapna\Desktop\C#\hello\obj\Debug\netcoreapp3.1\hello.pdb
 C:\Users\Sapna\Desktop\C#\hello\obj\Debug\netcoreapp3.1\hello.genruntimeconfig.cache
+C:\Users\Sapna\Desktop\C#\hello\obj\Debug\netcoreapp3.1\hello.csprojAssemblyReference.cache

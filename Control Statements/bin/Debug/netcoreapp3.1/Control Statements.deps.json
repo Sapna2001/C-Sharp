@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Control Statements/1.0.0": {
+        "dependencies": {
+          "hello": "1.0.0"
+        },
         "runtime": {
           "Control Statements.dll": {}
+        }
+      },
+      "hello/1.0.0": {
+        "runtime": {
+          "hello.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Control Statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "hello/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

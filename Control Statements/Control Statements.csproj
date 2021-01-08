@@ -6,4 +6,8 @@
     <RootNamespace>Control_Statements</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\hello\hello.csproj" />
+  </ItemGroup>
+
 </Project>

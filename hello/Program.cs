@@ -4,12 +4,21 @@ namespace hello
 {
     class Program
     {
-        static void Main(string[] args)
+        public string name;
+        public int id;
+
+        Program(string name, int id)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Enter name:");
-            string name = Console.ReadLine();
-            Console.WriteLine("Welcome," + name);
+            this.name = name;
+            this.id = id;
+            Console.WriteLine("Constructor");
         }
+
+        public void display()
+        {
+            Console.WriteLine(name);
+            Console.WriteLine(id);
+        }
+        
     }
 }
