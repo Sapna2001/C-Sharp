@@ -7,7 +7,6 @@ namespace Control_Statements
     {
         static void Main(string[] args)
         {
-            /*
             // if else statement
             Console.WriteLine("If else statement");
             Console.WriteLine("Enter age");
@@ -157,8 +156,6 @@ namespace Control_Statements
                     Console.Write("Enter a Valid number");
                     break;
             }
-            */
-            Program p1 = new Program();
         }
     }
 }
